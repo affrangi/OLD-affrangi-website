@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Alejandro F Frangi"
-  avatar           : "profile.png"
+  avatar           : "images/fotor-ai-20230909183720-square.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Manchester. UK"
   employer         :  "The University of Manchester"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=frangi+alejandro+f"
+  googlescholar    : "https://scholar.google.com/citations?user=9fGrB0sAAAAJ"
   email            :  "alejandro.frangi@manchester.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Alejandro-Frangi"
   uri              :
